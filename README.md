@@ -1,1 +1,1 @@
-# glowing-lamp Genetic Algorithm
+# Genetic Algorithm
